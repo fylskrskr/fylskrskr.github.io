@@ -14,36 +14,25 @@ title: Services
 ### Reviewer
 
 - **Journals**
-
 - IEEE Communications Letters (2025)
-
 - Elsevier: Sustainable Cities and Society (2025, 2026)
-
 - Elsevier: Computers in Human Behavior Reports (2026)
-
-  <br>
-
 - **Conferences**
-
 - IEEE International Conference on Communications (2025)
-
 - IEEE Global Communications Conference (2025)
-
 - IEEE Conference on Local Computer Networks (2025)
-
 - IEEE International Wireless Communications & Mobile Computing Conference (IWCMC 2026)
-
 - IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2026)
-
 - AAAI Conference on Artificial Intelligence (2025)
+
+<br>
 
 ### Program Committee
 
 - TPC Member for IEEE 104th Vehicular Technology Conference (2026)
-
 - TPC Member for AAAI Undergraduate Consortium (2026)
 
-  <br>
+<br>
 
 ---
 
@@ -69,7 +58,6 @@ title: Services
 
 - Student volunteer in the 44th session of the World Heritage Committee (2021)
 
-  <br>
 
 ---
 

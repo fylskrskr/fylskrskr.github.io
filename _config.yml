@@ -7,14 +7,14 @@ description: Here is personal website of Fyl, description here.  # Strongly reco
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://fylskrskr.github.io/
+url: https://fylskrskr.github.io
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
   name: Fyl
-  avatar: cam_logo.png   # 剑桥校徽（正方形）
+  avatar: 2pic.JPEG   # 剑桥校徽（正方形）
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: hc663@cam.ac.uk
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf

@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://fylskrskr.github.io/1pic.jpg" class="floatpic">
 
-Here is **Yuliang Fan** [(范钰梁)](https://www.eng.cam.ac.uk/profiles/hc663).<br>
+Here is **Yuliang Fan** [(范钰梁)](https://www.eng.cam.ac.uk/profiles/hc663).
 
 I am a first-year PhD student in the [Internet of Everything Group](https://oba.eco/people/) at the University of Cambridge, where I am fortunate to be supervised by [Prof. Ozgur Akan](https://oba.eco/), and advised by [Prof. Jon Crowcroft](https://www.cst.cam.ac.uk/people/jac22) and [Dr. Kai Li](https://sites.google.com/site/lukasunsw/Home). My research is supported by the Cambridge Trust Scholarship and China CSC Scholarship. Previously, I had the privilege of conducting summer research with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) in the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
 

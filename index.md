@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://fylskrskr.github.io/1pic.jpg" class="floatpic">
+<img src="https://fylskrskr.github.io/p1.jpg" class="floatpic">
 
 Here is **Yuliang Fan** [(范钰梁)](https://fylskrskr.github.io).
 
@@ -12,7 +12,7 @@ I am a first-year PhD student in the [Internet of Everything Group](https://oba.
 
 Prior to joining Cambridge, I worked on wireless networks and cybersecurity under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Additionally, I was honored to be selected as an outstanding undergraduate scholar at leading AI conferences, including AAAI 2024 and SIGKDD 2024.
 
-I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **imylfan [at] foxmail.com**
+I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **fyl.academic [at] gmail.com** or **yuliang.fan [at] outlook.com**.
 
 ---
 

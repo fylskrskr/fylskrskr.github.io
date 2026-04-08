@@ -8,9 +8,13 @@ layout: page
 
 Here is **Yuliang Fan** [(范钰梁)](https://fylskrskr.github.io).
 
-I am a first-year PhD student in the [Internet of Everything Group](https://oba.eco/people/) at the University of Cambridge, where I am fortunate to be supervised by [Prof. Ozgur Akan](https://oba.eco/), and advised by [Prof. Jon Crowcroft](https://www.cst.cam.ac.uk/people/jac22) and [Dr. Kai Li](https://sites.google.com/site/lukasunsw/Home). My research is supported by the Cambridge Trust Scholarship and China CSC Scholarship. Previously, I had the privilege of conducting summer research with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) in the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
+I’m currently an Artificial Intelligence Intern working on AI4Protein projects. Previously, I had the privilege of conducting research with [Prof. Haicang Zhang](https://aiproteindesign.org/) at Shanghai Jiao Tong University School of Medicine and [Prof. Fajie Yuan](https://fajieyuan.github.io/) at Westlake University.
 
-Prior to joining Cambridge, I worked on wireless networks and cybersecurity under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Additionally, I was honored to be selected as an outstanding undergraduate scholar at leading AI conferences, including AAAI 2024 and SIGKDD 2024.
+<!-- I am a first-year PhD student in the [Internet of Everything Group](https://oba.eco/people/) at the University of Cambridge, where I am fortunate to be supervised by [Prof. Ozgur Akan](https://oba.eco/), and advised by [Prof. Jon Crowcroft](https://www.cst.cam.ac.uk/people/jac22) and [Dr. Kai Li](https://sites.google.com/site/lukasunsw/Home). My research is supported by the Cambridge Trust Scholarship and China CSC Scholarship. Previously, I had the privilege of conducting summer research with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) in the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). -->
+
+I earned my Master's degree in Artificial Intelligence Engineering from Shanghai Jiao Tong University (SJTU), where I worked with Prof. Yue Zhou on Computer Vision in [Institue of Image Processing and Pattern Recognition](http://www.pami.sjtu.edu.cn/). I received my bachelor’s degree from Xi'an Jiaotong University (XJTU).
+
+<!-- Prior to joining Cambridge, I worked on wireless networks and cybersecurity under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Additionally, I was honored to be selected as an outstanding undergraduate scholar at leading AI conferences, including AAAI 2024 and SIGKDD 2024. -->
 
 I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **fyl.academic [at] gmail.com** or **yuliang.fan [at] outlook.com**.
 
@@ -18,10 +22,10 @@ I am always open to academic discussions and potential collaborations. Please fe
 
 ## Research Interests
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
 - AI-driven Protein Design
-- Federated LLMs
-- Attack and Defense for LLMs
+- Protein Language Model
+- Deep Generative Model
+- Reinforcement Learning
 - Graph Representation
 
 <br>
@@ -33,7 +37,8 @@ I am always open to academic discussions and potential collaborations. Please fe
 - **Nov 2025**：Excited to receive an Honorary Mention Award in the 2025 IEEE ComSoc Student Competition!
 - **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge Trust and CSC Scholarship!
 - **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
+- **October 2025：**Our work *PocketX* has been accepted to [Machine Learning in Structural Biology Workshop 2025](https://www.mlsb.io/accepted-papers) co-located with NeurIPS 2025 and EurIPS 2025 as a poster paper.
+- **May 2025：**Our AI-driven text-to-protein model *Pinal* has been reported by [Nature News](https://www.nature.com/articles/d41586-025-01586-y).
 - **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
 - **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
 

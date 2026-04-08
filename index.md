@@ -19,7 +19,7 @@ I am always open to academic discussions and potential collaborations. Please fe
 ## Research Interests
 
 - [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Internet of Agents
+- AI-driven Protein Design
 - Federated LLMs
 - Attack and Defense for LLMs
 - Graph Representation

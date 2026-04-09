@@ -24,7 +24,7 @@ I am **Yuliang Fan** [(范钰梁)](https://fylskrskr.github.io).
 
 I am an Artificial Intelligence researcher currently working on AI4Protein projects and actively seeking Ph.D. opportunities. My recent research includes developing **PocketX** under the supervision of [Prof. Haicang Zhang](https://aiproteindesign.org/) at Shanghai Jiao Tong University School of Medicine, as well as contributing to **Pinal** and **SaprotHub** in collaboration with [Prof. Fajie Yuan](https://fajieyuan.github.io/) at Westlake University.
 
-I received my Master’s degree in Artificial Intelligence Engineering from Shanghai Jiao Tong University (SJTU), where I worked with Prof. Yue Zhou on computer vision at the [Institute of Image Processing and Pattern Recognition](http://www.pami.sjtu.edu.cn/). I obtained my Bachelor’s degree in Automation from Xi’an Jiaotong University (XJTU).
+I received my Master’s degree in Artificial Intelligence Engineering from **Shanghai Jiao Tong University (SJTU)**, where I worked with Prof. Yue Zhou on computer vision at the [Institute of Image Processing and Pattern Recognition](http://www.pami.sjtu.edu.cn/). I obtained my Bachelor’s degree in Automation from **Xi’an Jiaotong University (XJTU)**.
 
 I am always open to academic discussions and potential collaborations. Please feel free to reach out via email at **fyl.academic [at] gmail.com** or **yuliang.fan [at] outlook.com**.
 
@@ -47,9 +47,10 @@ I am always open to academic discussions and potential collaborations. Please fe
 <!-- - **Nov 2025**：Excited to receive an Honorary Mention Award in the 2025 IEEE ComSoc Student Competition!
 - **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge Trust and CSC Scholarship!
 - **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain! -->
-- **Oct. 2025：**Our work *PocketX* has been accepted to [Machine Learning in Structural Biology Workshop](https://www.mlsb.io/accepted-papers) in NeurIPS 2025 as a poster paper.
-- **Sep. 2025：**Our work *SaprotHub* has been accepted to [Nature Biotechnology ](https://www.nature.com/articles/s41587-025-02859-7).
-- **May 2025：**Our text-to-protein model [*Pinal*](http://www.denovo-pinal.com/) has been reported by [Nature News](https://www.nature.com/articles/d41586-025-01586-y).
+- **Oct. 2025：**My first-author work **PocketX** has been accepted to [**Machine Learning in Structural Biology Workshop**](https://www.mlsb.io/accepted-papers) in **NeurIPS 2025** as a poster paper.
+- **Sep. 2025：**Our work **SaprotHub** has been accepted to [**Nature Biotechnology**](https://www.nature.com/articles/s41587-025-02859-7).
+- **May 2025：**Our text-to-protein model [**Pinal**](http://www.denovo-pinal.com/) has been reported by [**Nature News**](https://www.nature.com/articles/d41586-025-01586-y).
+
 <!-- - **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
 - **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada! -->
 

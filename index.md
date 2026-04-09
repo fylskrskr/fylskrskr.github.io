@@ -8,11 +8,11 @@ layout: page
 
 Here is **Yuliang Fan** [(范钰梁)](https://fylskrskr.github.io).
 
-I’m currently working on AI4Protein projects and actively seeking Ph.D. opportunities. Previously, I had the privilege of conducting research with [Prof. Haicang Zhang](https://aiproteindesign.org/) at Shanghai Jiao Tong University School of Medicine and [Prof. Fajie Yuan](https://fajieyuan.github.io/) at Westlake University.
+I’m an Artificial Intelligence Intern currently working on AI4Protein projects and actively seeking Ph.D. opportunities. Previously, I had the privilege of conducting research with [Prof. Haicang Zhang](https://aiproteindesign.org/) at Shanghai Jiao Tong University School of Medicine and [Prof. Fajie Yuan](https://fajieyuan.github.io/) at Westlake University.
 
 <!-- I am a first-year PhD student in the [Internet of Everything Group](https://oba.eco/people/) at the University of Cambridge, where I am fortunate to be supervised by [Prof. Ozgur Akan](https://oba.eco/), and advised by [Prof. Jon Crowcroft](https://www.cst.cam.ac.uk/people/jac22) and [Dr. Kai Li](https://sites.google.com/site/lukasunsw/Home). My research is supported by the Cambridge Trust Scholarship and China CSC Scholarship. Previously, I had the privilege of conducting summer research with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) in the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). -->
 
-I earned my Master's degree in Artificial Intelligence Engineering from Shanghai Jiao Tong University (SJTU), where I worked with Prof. Yue Zhou on Computer Vision in the[Institue of Image Processing and Pattern Recognition](http://www.pami.sjtu.edu.cn/). I received my Bachelor’s degree in Automation from Xi'an Jiaotong University (XJTU).
+I earned my Master's degree in Artificial Intelligence Engineering from Shanghai Jiao Tong University (SJTU), where I worked with Prof. Yue Zhou on Computer Vision in the [Institue of Image Processing and Pattern Recognition](http://www.pami.sjtu.edu.cn/). I received my Bachelor’s degree in Automation from Xi'an Jiaotong University (XJTU).
 
 <!-- Prior to joining Cambridge, I worked on wireless networks and cybersecurity under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Additionally, I was honored to be selected as an outstanding undergraduate scholar at leading AI conferences, including AAAI 2024 and SIGKDD 2024. -->
 

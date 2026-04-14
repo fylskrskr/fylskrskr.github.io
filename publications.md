@@ -4,19 +4,18 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~~: corresponding author)
+<!-- > (†: equal contribution, ~~: corresponding author) -->
 
 ## Journal Manuscripts
 
-- Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs<br>Submitted to an IEEE Transaction, 2026.<br>
+<!-- - Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs<br>Submitted to an IEEE Transaction, 2026.<br> -->
 
   
 
-- [Graph Representation-based Model Poisoning on Federated Large Language Models](https://arxiv.org/abs/2507.01694)<br>**Hanlin Cai**, Haofan Dong, Houtianfu Wang, Kai Li, Ozgur B. Akan~~<br>Submitted to an IEEE ComSoc Magazine, 2025.<br>
+- Democratizing protein language model training, sharing and collaboration<br>Jin Su, Zhikai Li, ..., **OPMC Team**, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan<br>Accepted by **Nature Biotechnology**, 2025.<br>
 
-  
 
-- [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~~<br>
+<!-- - [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~~<br>
 
   
 
@@ -28,21 +27,20 @@ title: Publications
 
   
   
-- [Environment-to-Link ISAC with Space-Weather Sensing for Ka-Band LEO Downlinks](https://arxiv.org/abs/2601.00820)<br>Houtianfu Wang, Haofan Dong, **Hanlin Cai**, Ozgur B. Akan~~<br>Submitted to an IEEE ComSoc Transaction, 2026.<br>
+- [Environment-to-Link ISAC with Space-Weather Sensing for Ka-Band LEO Downlinks](https://arxiv.org/abs/2601.00820)<br>Houtianfu Wang, Haofan Dong, **Hanlin Cai**, Ozgur B. Akan~~<br>Submitted to an IEEE ComSoc Transaction, 2026.<br> -->
 
   <br>
 
 ## Conference Paper
 
-- [Performance Bounds and Robust Filtering for LEO Inter-Satellite Synchronization under Cross-Epoch Doppler Coupling](https://arxiv.org/pdf/2603.11280)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan~~<br>Submitted to an IEEE ComSoc Conference, 2026. <br>
+- PocketX: Preference alignment for protein pockets design through group relative policy optimization<br>**Yuliang Fan**, Zaikai He, ..., Haicang Zhang, Jian Zhang<br>Accepted by **NeurIPS 2025 Workshop on Machine Learning in Structural Biology**, 2025. <br>
+  
+
+- SLTFILL: Spatial and Light Transformer for Multi-Reference Image Inpainting<br>**Yuliang Fan**, Yue Zhou, Zonghao Yang, Zhenyu Tong<br>Accepted by IEEE International Conference on Image Processing (**ICIP**), 2022. <br>
 
   
 
-- [Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents](https://arxiv.org/abs/2511.07176)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li~~, Sai Zou, Ozgur B. Akan<br>Submitted to the 22nd International Wireless Communications & Mobile Computing Conference (IWCMC), 2026. <br>
-
-  
-
-- [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~~<br>Proceedings of the 9th Workshop on Molecular Communications (MolCom 2025)<br>Catania, Italy. February, 2025.<br>
+<!-- - [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~~<br>Proceedings of the 9th Workshop on Molecular Communications (MolCom 2025)<br>Catania, Italy. February, 2025.<br>
 
   
 
@@ -83,6 +81,6 @@ title: Publications
 
 - [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Dr. Zhezhuang Xu, Yuxiong Xia).<br>Industrial Placement Report at China Huading Tech.<br>
 
-  <br>
+  <br> -->
 
 <br>

@@ -6,13 +6,13 @@ title: Publications
 
 <!-- > (†: equal contribution, ~~: corresponding author) -->
 
-## Journal Manuscripts
+<!-- ## Journal Manuscripts -->
 
 <!-- - Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs<br>Submitted to an IEEE Transaction, 2026.<br> -->
-
+- [PocketX: Preference alignment for protein pockets design through group relative policy optimization](https://www.mlsb.io/papers_2025/121.pdf)<br>**Yuliang Fan**, Zaikai He, ..., Haicang Zhang, Jian Zhang<br>NeurIPS 2025 Workshop on Machine Learning in Structural Biology (**MLSB**). <br>
   
 
-- Democratizing protein language model training, sharing and collaboration<br>Jin Su, Zhikai Li, ..., **OPMC Team**, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan<br>Accepted by **Nature Biotechnology**, 2025.<br>
+- [Democratizing protein language model training, sharing and collaboration](https://www.nature.com/articles/s41587-025-02859-7)<br>Jin Su, Zhikai Li, ..., **OPMC Team**, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan<br>**Nature Biotechnology**, 2025.<br>
 
 
 <!-- - [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~~<br>
@@ -29,14 +29,12 @@ title: Publications
   
 - [Environment-to-Link ISAC with Space-Weather Sensing for Ka-Band LEO Downlinks](https://arxiv.org/abs/2601.00820)<br>Houtianfu Wang, Haofan Dong, **Hanlin Cai**, Ozgur B. Akan~~<br>Submitted to an IEEE ComSoc Transaction, 2026.<br> -->
 
-  <br>
+  <!-- <br> -->
 
-## Conference Paper
-
-- PocketX: Preference alignment for protein pockets design through group relative policy optimization<br>**Yuliang Fan**, Zaikai He, ..., Haicang Zhang, Jian Zhang<br>Accepted by **NeurIPS 2025 Workshop on Machine Learning in Structural Biology**, 2025. <br>
+<!-- ## Conference Paper -->
   
 
-- SLTFILL: Spatial and Light Transformer for Multi-Reference Image Inpainting<br>**Yuliang Fan**, Yue Zhou, Zonghao Yang, Zhenyu Tong<br>Accepted by IEEE International Conference on Image Processing (**ICIP**), 2022. <br>
+- SLTFILL: Spatial and Light Transformer for Multi-Reference Image Inpainting<br>**Yuliang Fan**, Yue Zhou, Zonghao Yang, Zhenyu Tong<br>IEEE International Conference on Image Processing (**ICIP**), 2022. <br>
 
   
 

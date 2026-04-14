@@ -47,9 +47,9 @@ I am always open to academic discussions and potential collaborations. Please fe
 <!-- - **Nov 2025**：Excited to receive an Honorary Mention Award in the 2025 IEEE ComSoc Student Competition!
 - **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge Trust and CSC Scholarship!
 - **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain! -->
-- **Oct. 2025：**My first-author work **PocketX** has been accepted to [**Machine Learning in Structural Biology Workshop**](https://www.mlsb.io/accepted-papers) in **NeurIPS 2025** as a poster paper.
-- **Sep. 2025：**Our work **SaprotHub** has been accepted to [**Nature Biotechnology**](https://www.nature.com/articles/s41587-025-02859-7).
-- **May 2025：**Our text-to-protein model [**Pinal**](http://www.denovo-pinal.com/) has been reported by [**Nature News**](https://www.nature.com/articles/d41586-025-01586-y).
+- **Oct. 2025：**My first-author work [**PocketX**](https://www.mlsb.io/papers_2025/121.pdf) has been accepted to [**Machine Learning in Structural Biology Workshop**](https://www.mlsb.io/accepted-papers) in **NeurIPS 2025** as a poster paper.
+- **Sep. 2025：**Our work [**SaprotHub**](https://www.nature.com/articles/s41587-025-02859-7) has been accepted to [**Nature Biotechnology**](https://www.nature.com/articles/s41587-025-02859-7).
+- **May 2025：**Our text-to-protein model [**Pinal**](https://www.biorxiv.org/content/biorxiv/early/2024/08/02/2024.08.01.606258.full.pdf) has been reported by [**Nature News**](https://www.nature.com/articles/d41586-025-01586-y).
 
 <!-- - **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
 - **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada! -->

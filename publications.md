@@ -9,13 +9,13 @@ title: Publications
 <!-- ## Journal Manuscripts -->
 
 <!-- - Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs<br>Submitted to an IEEE Transaction, 2026.<br> -->
-- [PocketX: Preference alignment for protein pockets design through group relative policy optimization](https://www.mlsb.io/papers_2025/121.pdf)<br>**Yuliang Fan**, Zaikai He, ..., Haicang Zhang, Jian Zhang<br>NeurIPS 2025 Workshop on Machine Learning in Structural Biology (**MLSB**). <br>
+- [PocketX: Preference alignment for protein pockets design through group relative policy optimization](https://www.mlsb.io/papers_2025/121.pdf)<br>**Yuliang Fan**, Zaikai He, ..., Haicang Zhang, Jian Zhang<br>NeurIPS 2025 Workshop on Machine Learning in Structural Biology (**MLSB**), 2025. <br>
   
 
 - [Democratizing protein language model training, sharing and collaboration](https://www.nature.com/articles/s41587-025-02859-7)<br>Jin Su, Zhikai Li, ..., **OPMC Team**, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan<br>**Nature Biotechnology**, 2025.<br>
 
-
-<!-- - [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~~<br>
+- [Toward De Novo Protein Design from Natural Language](https://www.biorxiv.org/content/10.1101/2024.08.01.606258v3.full.pdf)<br>Fengyuan Dai, \textbf{Yuliang Fan}, Jin Su, Chentong Wang, Chenchen Han, Xibin Zhou, Jianming Liu, Hui Qian, Shunzhi Wang, Anping Zeng, Yajie Wang, Fajie Yuan<br>bioRxiv 2024.08.01.606258, 2024.<br>
+<!-- - [Toward De Novo Protein Design from Natural Language](https://www.biorxiv.org/content/10.1101/2024.08.01.606258v3.full.pdf)<br>Fengyuan Dai, \textbf{Yuliang Fan}, Jin Su, Chentong Wang, Chenchen Han, Xibin Zhou, Jianming Liu, Hui Qian, Shunzhi Wang, Anping Zeng, Yajie Wang, Fajie Yuan<br>bioRxiv 2024.08.01.606258<br>
 
   
 
@@ -34,7 +34,7 @@ title: Publications
 <!-- ## Conference Paper -->
   
 
-- SLTFILL: Spatial and Light Transformer for Multi-Reference Image Inpainting<br>**Yuliang Fan**, Yue Zhou, Zonghao Yang, Zhenyu Tong<br>IEEE International Conference on Image Processing (**ICIP**), 2022. <br>
+- [SLTFILL: Spatial and Light Transformer for Multi-Reference Image Inpainting](https://fylskrskr.github.io/mypaper/SLTFillnew_ICIP.pdf)<br>**Yuliang Fan**, Yue Zhou, Zonghao Yang, Zhenyu Tong<br>The 29th IEEE International Conference on Image Processing (**ICIP**), 2022.<br>
 
   
 

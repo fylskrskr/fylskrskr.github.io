@@ -9,30 +9,13 @@ title: Publications
 <!-- ## Journal Manuscripts -->
 
 <!-- - Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs<br>Submitted to an IEEE Transaction, 2026.<br> -->
-- [PocketX: Preference alignment for protein pockets design through group relative policy optimization](https://www.mlsb.io/papers_2025/121.pdf)<br>**Yuliang Fan**, Zaikai He, ..., Haicang Zhang, Jian Zhang<br>NeurIPS 2025 Workshop on Machine Learning in Structural Biology (**MLSB**), 2025. <br>
+- [PocketX: Preference alignment for protein pockets design through group relative policy optimization](https://www.mlsb.io/papers_2025/121.pdf)<br>**Yuliang Fan**, Zaikai He, ..., Haicang Zhang, Jian Zhang<br>Machine Learning in Structural Biology Workshop(**MLSB**), 2025.<br>
   
 
 - [Democratizing protein language model training, sharing and collaboration](https://www.nature.com/articles/s41587-025-02859-7)<br>Jin Su, Zhikai Li, ..., **OPMC Team**, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan<br>**Nature Biotechnology**, 2025.<br>
 
-- [Toward De Novo Protein Design from Natural Language](https://www.biorxiv.org/content/10.1101/2024.08.01.606258v3.full.pdf)<br>Fengyuan Dai, \textbf{Yuliang Fan}, Jin Su, Chentong Wang, Chenchen Han, Xibin Zhou, Jianming Liu, Hui Qian, Shunzhi Wang, Anping Zeng, Yajie Wang, Fajie Yuan<br>bioRxiv 2024.08.01.606258, 2024.<br>
-<!-- - [Toward De Novo Protein Design from Natural Language](https://www.biorxiv.org/content/10.1101/2024.08.01.606258v3.full.pdf)<br>Fengyuan Dai, \textbf{Yuliang Fan}, Jin Su, Chentong Wang, Chenchen Han, Xibin Zhou, Jianming Liu, Hui Qian, Shunzhi Wang, Anping Zeng, Yajie Wang, Fajie Yuan<br>bioRxiv 2024.08.01.606258<br>
+- [Toward De Novo Protein Design from Natural Language](https://www.biorxiv.org/content/10.1101/2024.08.01.606258v3.full.pdf)<br>Fengyuan Dai, \textbf{Yuliang Fan}, Jin Su, Chentong Wang, Chenchen Han, Xibin Zhou, Jianming Liu, Hui Qian, Shunzhi Wang, Anping Zeng, Yajie Wang, Fajie Yuan<br>**bioRxiv preprint** 2024.08.01.606258, 2024.<br>
 
-  
-
-- [A Policy-Aware Cross-Layer Auditing Service for Tiering and Throttling in Starlink](https://arxiv.org/abs/2603.08990)<br>Houtianfu Wang, **Hanlin Cai~~**, Haofan Dong, Ozgur B. Akan<br>Submitted to an IEEE ComSoc Letter, 2025.<br>
-
-  
-  
-- [Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels](https://arxiv.org/abs/2510.19007)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan~~<br>Submitted to an IEEE ComSoc Transaction, 2026.<br>
-
-  
-  
-- [Environment-to-Link ISAC with Space-Weather Sensing for Ka-Band LEO Downlinks](https://arxiv.org/abs/2601.00820)<br>Houtianfu Wang, Haofan Dong, **Hanlin Cai**, Ozgur B. Akan~~<br>Submitted to an IEEE ComSoc Transaction, 2026.<br> -->
-
-  <!-- <br> -->
-
-<!-- ## Conference Paper -->
-  
 
 - [SLTFILL: Spatial and Light Transformer for Multi-Reference Image Inpainting](https://fylskrskr.github.io/mypaper/SLTFillnew_ICIP.pdf)<br>**Yuliang Fan**, Yue Zhou, Zonghao Yang, Zhenyu Tong<br>The 29th IEEE International Conference on Image Processing (**ICIP**), 2022.<br>
 
@@ -81,4 +64,4 @@ title: Publications
 
   <br> -->
 
-<br>
+<!-- <br> -->

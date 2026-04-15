@@ -24,7 +24,8 @@ I am **Yuliang Fan** [(范钰梁)](https://fylskrskr.github.io).
 
 I am an Artificial Intelligence researcher currently working on AI4Protein projects and actively seeking Ph.D. opportunities. My recent research includes developing **PocketX** under the supervision of [Prof. Haicang Zhang](https://aiproteindesign.org/) at Shanghai Jiao Tong University School of Medicine, as well as contributing to **Pinal** and **SaprotHub** in collaboration with [Prof. Fajie Yuan](https://fajieyuan.github.io/) at Westlake University.
 
-I received my Master’s degree in Artificial Intelligence Engineering from **Shanghai Jiao Tong University (SJTU)**, where I worked with Prof. Yue Zhou on computer vision at the [Institute of Image Processing and Pattern Recognition](http://www.pami.sjtu.edu.cn/). Prior to this, I obtained my Bachelor’s degree in Automation from **Xi’an Jiaotong University (XJTU)**, building a solid foundation in control theory and machine learning.
+I received my Master’s degree in Artificial Intelligence Engineering from **Shanghai Jiao Tong University (SJTU)**, where I worked with Prof. Yue Zhou on computer vision at the [Institute of Image Processing and Pattern Recognition](http://www.pami.sjtu.edu.cn/). Prior to this, I obtained my Bachelor’s degree in Automation from **Xi’an Jiaotong University (XJTU)**.
+<!-- building a solid foundation in control theory and machine learning. -->
 
 I am always open to academic discussions and potential collaborations. Please feel free to reach out via email at **fyl.academic [at] gmail.com** or **yuliang.fan [at] outlook.com**.
 

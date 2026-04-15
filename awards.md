@@ -4,13 +4,13 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-## Scholarships
+## Honors and Awards
 
-- May 2025：**Cambridge Trust & CSC Joint Scholarship** (totally about £190,000 for tuition waiver and stipend)
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- June 2024：President’s Scholarship ($1000)<br>Highest undergraduate award in my university
-- Aug 2023：Innovation Scholarship ($1400)<br>
+- Oct 2022：**JAPAN SCSK Academic Scholarship** (Top 5\%), SJTU
+- Sep 2018：**1st Prize** in China Undergraduate Mathematical Contest in Modeling (**CUMCM**), XJTU
+- June 2017：**National Undergraduate Innovation and Entrepreneurship Training Program**, XJTU
+- Nov 2016：**Advanced Individual of Social Work**, XJTU
+<!-- - Aug 2023：Innovation Scholarship ($1400)<br>
 - May 2023：XiamenAir Scholarship ($800)<br>
 - June 2024：Best Final Year Project Award of Maynooth (€500)
 - Oct 2023：Best Academic Performance of Maynooth (€100)
@@ -27,4 +27,4 @@ title: Awards
 - Nov 2022：First Prize in China Undergraduate Mathematical Contest in Modeling
 - June 2022：Championship of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
 
-<br>
+<br> -->

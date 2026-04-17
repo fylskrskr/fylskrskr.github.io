@@ -3,7 +3,6 @@ layout: page
 ---
 
 ## About Me
-
 <br>
 <img src="https://fylskrskr.github.io/p1.jpg" class="floatpic" style="width: 34%; max-width: 300px; height: auto;">
 

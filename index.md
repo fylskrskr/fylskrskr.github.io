@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://fylskrskr.github.io/p1.jpg" class="floatpic" style="width: 35%; max-width: 300px; height: auto;">
+<img src="https://fylskrskr.github.io/p1.jpg" class="floatpic" style="width: 33%; max-width: 300px; height: auto;">
 
 <!-- Here is **Yuliang Fan** [(范钰梁)](https://fylskrskr.github.io).
 

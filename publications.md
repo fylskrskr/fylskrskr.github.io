@@ -9,7 +9,7 @@ title: Publications
 <!-- ## Journal Manuscripts -->
 
 <!-- - Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs<br>Submitted to an IEEE Transaction, 2026.<br> -->
-- [PocketX: Preference alignment for protein pockets design through group relative policy optimization](https://www.mlsb.io/papers_2025/121.pdf)<br>**Yuliang Fan**, Zaikai He, ..., Haicang Zhang, Jian Zhang<br>Machine Learning in Structural Biology Workshop (**MLSB**), 2025.<br>
+- [PocketX: Preference alignment for protein pockets design through group relative policy optimization](https://www.mlsb.io/papers_2025/121.pdf)<br>**Yuliang Fan**, Zaikai He, Bin Li, Bin He, Mingshu Zhang, Jian Zhang, Haicang Zhang<br>Machine Learning in Structural Biology Workshop (**MLSB**), 2025.<br>
   
 
 - [Democratizing protein language model training, sharing and collaboration](https://www.nature.com/articles/s41587-025-02859-7)<br>Jin Su, Zhikai Li, ..., **OPMC Team**, Martin Steinegger, Sergey Ovchinnikov, Fajie Yuan<br>**Nature Biotechnology**, 2025.<br>

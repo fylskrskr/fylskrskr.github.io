@@ -3,7 +3,7 @@ layout: page
 ---
 
 ## About Me
-
+<div style="height: 8px;"></div>
 <img src="https://fylskrskr.github.io/p1.jpg" class="floatpic" style="width: 34%; max-width: 300px; height: auto;">
 
 <!-- Here is **Yuliang Fan** [(范钰梁)](https://fylskrskr.github.io).
@@ -20,7 +20,6 @@ I’m an Artificial Intelligence Intern currently working on AI4Protein projects
 
 <!-- I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **fyl.academic [at] gmail.com** or **yuliang.fan [at] outlook.com**.  -->
 
-<div style="height: 8px;"></div>
 
 I am **Yuliang Fan** [(范钰梁)](https://fylskrskr.github.io).
 
